@@ -8,6 +8,7 @@ import onnxruntime as ort
 from PIL import Image
 from pathlib import Path
 from collections import OrderedDict, namedtuple
+#i did it 
 
 # 설정
 cuda = True
